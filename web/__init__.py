@@ -1,7 +1,7 @@
 from flask import Flask
 
 
-asaa AASAS
+print('Hiiiiiiiiiiiiiiiiiiiiii Asanka')
 
 
 from web import routes
