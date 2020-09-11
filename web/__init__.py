@@ -1,7 +1,7 @@
 from flask import Flask
 
 
-asaa
+asaa AASAS
 
 
 from web import routes
